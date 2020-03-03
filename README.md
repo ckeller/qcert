@@ -409,7 +409,7 @@ $ run.sh
 
 ## License
 
-Q\*cert is distributed under the terms of the Apache 2.0 License, see
+Q\*cert (and Q\*cert only) is distributed under the terms of the Apache 2.0 License, see
 [LICENSE](LICENSE)
 
 ## Contributions
